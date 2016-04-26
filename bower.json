@@ -27,10 +27,5 @@
         "**/.*",
         "node_modules",
         "spec"
-    ],
-    "dependencies": {
-        "error-stack-parser": "~1.2.3",
-        "stack-generator": "~1.0.7",
-        "stacktrace-gps": "~2.3.0"
-    }
+    ]
 }
